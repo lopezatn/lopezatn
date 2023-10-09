@@ -1,16 +1,21 @@
-### Hi there 👋
+--------------------------------------------------------------------------------------
 
-<!--
-**lopezatn/lopezatn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+const developerInfo = {
+  location: "Berlin",
+  specialization: "front-end software developer",
+  foundation: "strong foundation in IT commerce",
+  technicalKnowledge: "wealth of technical knowledge",
+  passion: "strong passion for web development and design",
+  goal: "aim to connect people with technology, spreading information through websites in a clear and concise manner, striving to bring the best user experience",
+  connection: "Let's connect and explore how my diverse skill set can contribute to your projects and goals."
+};
 
-Here are some ideas to get you started:
+console.log(`
+${developerInfo.location}-based ${developerInfo.specialization}.
+With a ${developerInfo.foundation}, I bring a ${developerInfo.technicalKnowledge}.
+With a ${developerInfo.passion}, I ${developerInfo.goal}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+${developerInfo.connection}
+`);
+
+--------------------------------------------------------------------------------------
