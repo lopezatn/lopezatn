@@ -13,11 +13,17 @@ const Developer = {
 };
 
 console.log(`Greetings, I'm a developer based in ${Developer.location}.`);
+
 console.log(`I specialize in being a ${Developer.specialization},`);
+
 console.log(`proficient in technologies like ${Developer.skills.join(", ")}.`);
+
 console.log(`With a ${Developer.background}, I bring a wealth of knowledge.`);
+
 console.log(`Driven by a ${Developer.passion}, my mission is clear:`);
+
 console.log(`${Developer.mission}`);
+
 console.log(`${Developer.contact}`);
 
 --------------------------------------------------------------------------------------
