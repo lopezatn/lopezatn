@@ -2,6 +2,7 @@
 
 {
   "location": "Berlin",
+  
   "specialization": "front-end software developer",
   "foundation": "strong foundation in IT commerce",
   "technicalKnowledge": "wealth of technical knowledge",
