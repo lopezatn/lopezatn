@@ -1,19 +1,26 @@
---------------------------------------------------------------------------------------
-
-{
-  "location": "Berlin",
-  
-  "specialization": "front-end software developer",
-  
-  "foundation": "strong foundation in IT commerce",
-  
-  "technicalKnowledge": "wealth of technical knowledge",
-
-  "passion": "strong passion for web development and design",
-  
-  "goal": "aim to connect people with technology, spreading information through websites in a clear and concise manner, striving to bring the best user experience",
-  
-  "connection": "Let's connect and explore how my diverse skill set can contribute to your projects and goals."
-}
+Hi there... Nowadays it's quite a challenge to be original when presenting oneself. So, I came up with a playful way to do it, all while ensuring that it's in sync with my professional profile. That's why I decided to introduce myself using JavaScript :-)
 
 --------------------------------------------------------------------------------------
+
+const Developer = {
+  location: "Berlin",
+  specialization: "front-end developer",
+  skills: ["HTML", "CSS", "JavaScript", "React"],
+  background: "strong foundation in IT commerce",
+  passion: "passion for web development and design",
+  mission: "aim to connect people with technology, delivering clear and concise information through websites for the best user experience",
+  contact: "Let's connect and collaborate to achieve your project goals!",
+};
+
+console.log(`Greetings, I'm a developer based in ${Developer.location}.`);
+console.log(`I specialize in being a ${Developer.specialization},`);
+console.log(`proficient in technologies like ${Developer.skills.join(", ")}.`);
+console.log(`With a ${Developer.background}, I bring a wealth of knowledge.`);
+console.log(`Driven by a ${Developer.passion}, my mission is clear:`);
+console.log(`${Developer.mission}`);
+console.log(`${Developer.contact}`);
+
+--------------------------------------------------------------------------------------
+
+I hope you found my information engaging!
+If you'd like to get in touch, you can reach me via email at agustinlpzb@gmail.com.
