@@ -3,13 +3,21 @@ Hi there... Nowadays it's quite a challenge to be original when presenting onese
 --------------------------------------------------------------------------------------
 
 const Developer = {
+
   location: "Berlin",
+  
   specialization: "front-end developer",
+  
   skills: ["HTML", "CSS", "JavaScript", "React"],
+  
   background: "strong foundation in IT commerce",
+  
   passion: "passion for web development and design",
+  
   mission: "aim to connect people with technology, delivering clear and concise information through websites for the best user experience",
+  
   contact: "Let's connect and collaborate to achieve your project goals!",
+  
 };
 
 console.log(`Greetings, I'm a developer based in ${Developer.location}.`);
