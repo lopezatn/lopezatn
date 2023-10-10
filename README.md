@@ -15,9 +15,7 @@ const Developer = {
   passion: "passion for web development and design",
   
   mission: "aim to connect people with technology, delivering clear and concise information through websites for the best user experience",
-  
-  contact: "Let's connect and collaborate to achieve your project goals!",
-  
+    
 };
 
 console.log(`Greetings, I'm a developer based in ${Developer.location}.`);
