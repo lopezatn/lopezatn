@@ -7,5 +7,5 @@
   <p>If you'd like to get in touch, you can reach me via email at <a href="mailto:agustinlpzb@gmail.com">agustinlpzb@gmail.com</a> 
 			or my LinkedIn account <a href="https://www.linkedin.com/in/lopezatn/" target="_blank">https://www.linkedin.com/in/lopezatn/</a></p>
   <p>May the force be with you.</p>
-  <img src="https://github.com/lopezatn/lopezatn/assets/83620071/33f0b188-3f4e-4e84-a29f-9aa812fee988" alt="Yoda img" style="max-width: 50%;">
+  <img src="https://github.com/lopezatn/lopezatn/assets/83620071/33f0b188-3f4e-4e84-a29f-9aa812fee988" alt="Yoda img" style="max-width: 50% !important;">
 </div>
