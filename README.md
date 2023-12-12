@@ -7,7 +7,7 @@
   <p>If you'd like to get in touch, you can reach me via email at <a href="mailto:agustinlpzb@gmail.com">agustinlpzb@gmail.com</a> 
 			or my LinkedIn account <a href="https://www.linkedin.com/in/lopezatn/" target="_blank">https://www.linkedin.com/in/lopezatn/</a></p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lopezatn&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lopezatn&layout=compact&theme=transparent)
 
 
 
