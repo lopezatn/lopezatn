@@ -6,6 +6,9 @@
   <p>The harder, the better; no challenge is impossible if you have enough time and will.</p>
   <p>If you'd like to get in touch, you can reach me via email at <a href="mailto:agustinlpzb@gmail.com">agustinlpzb@gmail.com</a> 
 			or my LinkedIn account <a href="https://www.linkedin.com/in/lopezatn/" target="_blank">https://www.linkedin.com/in/lopezatn/</a></p>
-  <p>May the force be with you.</p>
-  <img src="https://github.com/lopezatn/lopezatn/assets/83620071/429336b3-b462-4943-a324-c26c6cc1310a" alt="Yoda img" style="max-width: 50% !important;">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lopezatn&layout=compact&theme=dark)
+
+
+
 </div>
