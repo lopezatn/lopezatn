@@ -1,5 +1,5 @@
 <div align="center">
-  <p>Hi there! I'm a Full-Stack Developer based in Berlin, specializing in Javascript with Typescript.</p>
+  <p>Hi there! I'm a Full-Stack Developer based in Berlin.</p>
   <p>I like to keep myself updated with the best practices and the cleanest solutions.</p>
   <p>My mindset is to code in a way that focuses on maintainability while being efficient and readable for my team.</p>
   <p>As my working background, I was specialized in IT mid-range systems Commerce, profession that allowed me to build knowledge in systems engineering and Linux OS.</p>
