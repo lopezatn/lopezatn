@@ -1,5 +1,5 @@
 <div align="center">
-  <p>I'm a Full-Stack Developer based in Berlin.</p>
+  <p>Software Engineer based in Berlin.</p>
   <p>maintainability, efficiency, readability</p>
   <p>If you'd like to get in touch, you can reach me via email at <a href="mailto:agustinlpzb@gmail.com">agustinlpzb@gmail.com</a>
 			or my LinkedIn account <a href="https://www.linkedin.com/in/lopezatn/" target="_blank">https://www.linkedin.com/in/lopezatn/</a></p>
