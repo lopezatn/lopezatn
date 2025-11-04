@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Agustín López Bergero  
 
-**Entry-level Systems Engineer** focused on AWS, Linux, and cloud automation.  
+**Systems Engineer** focused on AWS, Linux, and cloud automation.  
 Building and maintaining reliable infrastructure through scripting, monitoring, and IaC.
 
 🔧 **Core Skills**  
