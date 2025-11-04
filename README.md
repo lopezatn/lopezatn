@@ -1,6 +1,6 @@
 <div align="center">
 
-# Welcome to my github.
+# Hello there!
 
 **Systems Engineer** focused on AWS, Linux, and cloud automation.  
 Building and maintaining reliable infrastructure through scripting, monitoring, and IaC.
