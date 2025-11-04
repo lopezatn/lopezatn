@@ -17,12 +17,6 @@ Building and maintaining reliable infrastructure through scripting, monitoring, 
  [Rick & Morty Browser](https://github.com/lopezatn/rickandmorty-app) – Character explorer showcasing frontend design  
  [Portfolio Setup on EC2](https://github.com/lopezatn/aws-sysdev-pathway) – Self-hosted website using Nginx, Elastic IP, and DuckDNS  
 
-📚 **Currently Expanding In**  
- AWS Solutions Architect – Associate  
- Infrastructure as Code (CloudFormation, Terraform basics)  
- System monitoring & reliability (CloudWatch, automation scripts)  
- Linux administration & networking fundamentals  
-
 📫 **Connect With Me**  
 [LinkedIn](https://www.linkedin.com/in/lopezatn/)  
 📧 agustinlpzb@gmail.com  
