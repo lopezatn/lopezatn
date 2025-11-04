@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Agustín López Bergero  
+# Hey there, user.
 
 **Systems Engineer** focused on AWS, Linux, and cloud automation.  
 Building and maintaining reliable infrastructure through scripting, monitoring, and IaC.
