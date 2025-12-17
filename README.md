@@ -2,7 +2,7 @@
 
 # About me
 
-**Systems Engineer** focused on AWS, Linux, and cloud automation.  
+**Cloud & DevOps Engineer** focused on AWS, Linux, and cloud automation.  
 Building and maintaining reliable infrastructure through scripting, monitoring, and IaC.
 
 🔧 **Core Skills**  
