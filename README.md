@@ -15,7 +15,7 @@ Building and maintaining reliable infrastructure through scripting, monitoring, 
  [DuckDNS IP Auto-Updater](https://github.com/lopezatn/aws-sysdev-pathway) – Bash automation syncing dynamic IPs with AWS security groups  
  [AWS Snapshot Lambda](https://github.com/lopezatn/aws-sysdev-pathway) – Python Lambda automating EBS snapshots  
  [Rick & Morty Browser](https://github.com/lopezatn/rickandmorty-app) – Character explorer showcasing frontend design  
- [Portfolio Setup on EC2](https://github.com/lopezatn/aws-sysdev-pathway) – Self-hosted website using Nginx, Elastic IP, and DuckDNS  
+ [Portfolio Setup on EC2](https://github.com/lopezatn/aws-sysdev-pathway) – Self-hosted website using Nginx, Elastic IP, and Route 53
 
 📫 **Connect With Me**  
 [LinkedIn](https://www.linkedin.com/in/lopezatn/)  
