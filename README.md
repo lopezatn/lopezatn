@@ -2,7 +2,7 @@
 
 👋 Whoami
 
-**Systems Engineer focused on reliability, automation, and observability in AWS and Linux environments, built through hands-on operation of real infrastructure.**
+**DevOps focused on reliability, automation, and observability in AWS and Linux environments, built through hands-on operation of real infrastructure.**
 
 I design, build, and operate cloud systems to understand how they behave under normal conditions and how they fail.  
 My approach is practical and exploratory: automate first, observe signals, troubleshoot from fundamentals, and improve reliability through iteration.
