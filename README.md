@@ -1,49 +1,15 @@
 👋 Whoami
+Junior DevOps Engineer building and operating real cloud infrastructure on AWS. Focused on automation, reliability, and observability.
 
-**DevOps Engineer focused on reliability, automation, and observability in AWS and Linux environments, built through hands-on operation of real infrastructure.**
+🔧 Stack
+AWS Terraform Docker GitHub Actions Linux Bash Python Nginx CloudWatch Git
 
-I design, build, and operate cloud systems to understand how they behave under normal conditions and how they fail.  
-My approach is practical and iterative: automate first, observe signals, troubleshoot from fundamentals, and improve reliability over time.
+🚀 Projects
+portfolio-infrastructure -> AWS infra provisioned with Terraform, CI/CD via GitHub Actions, containerized services on EC2
+aws-sysdev-pathway -> Labs covering Lambda automation, EBS snapshots, VPC networking, Linux web server setup, monitoring workflows
 
-I focus on clear, maintainable infrastructure and operational workflows that reflect real production concerns.
+📫 Connect
+LinkedIn · agustinlpzb@gmail.com
+Portfolio · lopezberg.dev
 
----
-
-🔧 Core Skills
-
-**Cloud & Infrastructure**  
-AWS (EC2, VPC, S3, IAM, Lambda), Linux, networking fundamentals
-
-**Infrastructure as Code & Automation**  
-Terraform, Bash, Python
-
-**Monitoring & Operations**  
-CloudWatch, logs, metrics, alerting, troubleshooting
-
-**Development & Tooling**  
-Git, GitHub, CLI, Agile workflows, Docker, Jenkins
-
-**Web (supporting knowledge)**  
-HTML, CSS, JavaScript, React
-
----
-
-🚀 Selected Hands-on Projects
-
-**AWS Infrastructure & Automation (Terraform, Bash, Python)**  
-https://github.com/lopezatn/portfolio-infrastructure
-
-**Cloud Systems & Operations Labs (AWS, Linux, Automation)**  
-https://github.com/lopezatn/aws-sysdev-pathway
-
-Projects include:
-- Automating dynamic IP handling and security group updates
-- AWS Lambda for EBS snapshot automation
-- Self-hosted Linux web infrastructure with Nginx, DNS, and HTTPS
-- Monitoring, logging, and operational workflows
-
----
-
-📫 Connect With Me  
-LinkedIn: https://www.linkedin.com/in/lopezatn/  
-Email: agustinlpzb@gmail.com
+Also know some HTML, CSS, JS, and React, enough to understand what I'm deploying.
