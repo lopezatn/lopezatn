@@ -1,5 +1,5 @@
 # whoami 👋
-Junior DevOps Engineer building and operating real cloud infrastructure on AWS. Focused on automation, reliability, and observability.
+DevOps Engineer building and operating real cloud infrastructure on AWS. Focused on automation, reliability, and observability.
 
 ## 🔧 Stack
 `AWS` `Terraform` `Docker` `GitHub Actions` `Linux` `Bash` `Python` `Nginx` `CloudWatch` `Git`
